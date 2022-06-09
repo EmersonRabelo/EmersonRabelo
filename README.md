@@ -8,7 +8,7 @@
  Hi 👋 My name is Emersen Teles Rabelo
 =====================================
 
-Estagiário em desenvolvimento full-stack
+Analista de Desenvolvimento PHP
 ----------------------------------------
 
 * 🌍  I'm based in Brasil
