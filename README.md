@@ -9,7 +9,7 @@
 =====================================
 
 Analista de Desenvolvimento PHP
-----------------------------------------
+=====================================
 
 * 🌍  I'm based in Brasil
 * 🖥️  See my portfolio at [here](http://https://github.com/EmersonRabelo)
