@@ -5,7 +5,7 @@
  -->
   ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/EmersonRabelo)
   
- Hi 👋 My name is Emersen Teles Rabelo
+ Hi 👋 My name is Emerson Teles Rabelo
 =====================================
 
 Analista de Desenvolvimento PHP
