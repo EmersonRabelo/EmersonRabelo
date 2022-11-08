@@ -5,16 +5,15 @@
  -->
   ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/EmersonRabelo)
   
- Hi 👋 My name is Emerson Teles Rabelo
+Olá, Me chamo Emerson.
 =====================================
 
 Analista de Desenvolvimento PHP
 =====================================
 
-* 🌍  I'm based in Brasil
-* 🖥️  See my portfolio at [here](http://https://github.com/EmersonRabelo)
-* ✉️  You can contact me at [rabelo.emerson1998@gmail.com](mailto:rabelo.emerson1998@gmail.com)
-* 🧠  I'm learning NodeJS, React e Angular
+* 🌍  Atualmente moro no Brasil.
+* ✉️  Pode me contactar [rabelo.emerson1998@gmail.com](mailto:rabelo.emerson1998@gmail.com)
+* 🧠  Estou estudando Javascript, NodeJS e React
 ##
 <div align="left">
   <a href="https://github.com/EmersonRabelo">
@@ -23,7 +22,7 @@ Analista de Desenvolvimento PHP
 </div>
 
  
- ### Skills
+ ### Habilidades
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
@@ -44,7 +43,7 @@ Analista de Desenvolvimento PHP
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored-dark.svg" width="36" height="36" alt="XD" /></a>
 </p>
 
-### Socials
+### REdes
 
 <p align="left"> <a href="https://www.github.com/EmersonRabelo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/emersonrabelo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/MainEmerson" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 <br>
