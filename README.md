@@ -5,7 +5,7 @@
  -->
   ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/EmersonRabelo)
   
-Olá, Me chamo Emerson.
+Olá, me chamo Emerson.
 =====================================
 
 Analista de Desenvolvimento PHP
