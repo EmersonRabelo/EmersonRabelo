@@ -11,8 +11,8 @@ Olá, me chamo Emerson.
 Analista de Desenvolvimento PHP
 =====================================
 
-* 🌍  Atualmente moro no Brasil.
-* ✉️  Pode me contactar [rabelo.emerson1998@gmail.com](mailto:rabelo.emerson1998@gmail.com)
+* 🌍  Resido no Brasil.
+* ✉️  Pode me contactar [AQUI](mailto:rabelo.emerson1998@gmail.com)
 * 🧠  Estou estudando Javascript, NodeJS e React
 ##
 <div align="left">
@@ -43,7 +43,7 @@ Analista de Desenvolvimento PHP
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored-dark.svg" width="36" height="36" alt="XD" /></a>
 </p>
 
-### REdes
+### Redes
 
 <p align="left"> <a href="https://www.github.com/EmersonRabelo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/emersonrabelo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/MainEmerson" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 <br>
