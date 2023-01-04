@@ -3,7 +3,7 @@
 <img src="https://img.shields.io/github/followers/EmersonRabelo.svg?style=social&label=Follow&maxAge=2592000">
 </div>
  -->
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/EmersonRabelo)
+<!--   ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/EmersonRabelo) -->
   
 Olá, me chamo Emerson.
 =====================================
