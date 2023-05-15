@@ -13,7 +13,7 @@ Analista de Desenvolvimento PHP
 
 * 🌍  Resido no Brasil.
 * ✉️  Pode me contactar [AQUI](mailto:rabelo.emerson1998@gmail.com)
-* 🧠  Estou estudando Javascript, NodeJS e React
+* 🧠  Estou estudando Typescript, NodeJS e React
 ##
 <!-- <div align="left">
   <a href="https://github.com/EmersonRabelo">
