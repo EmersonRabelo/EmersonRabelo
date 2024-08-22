@@ -13,7 +13,7 @@ Analista de Desenvolvimento
 
 * 🌍  Resido no Brasil.
 * ✉️  Pode me contactar [AQUI](mailto:rabelo.emerson1998@gmail.com)
-* 🧠  No momento estou aperfeiçoando meus conhecimento em Java & Spring boot e Android & Kotlin.
+* 🧠  No momento estou aperfeiçoando meus conhecimentos em Java Spring e Android Kotlin.
 ##
 
  ### Habilidades
