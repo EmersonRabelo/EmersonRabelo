@@ -8,7 +8,7 @@
 Olá, me chamo Emerson!
 =====================================
 
-Analista de Desenvolvimento
+Desenvolvedor Full-Stack Pleno
 =====================================
 
 * 🌍  Resido no Brasil.
